@@ -9,3 +9,4 @@ pytest-temp-*/
 
 database/*.sqlite3
 output/
+.pytest-temp/
