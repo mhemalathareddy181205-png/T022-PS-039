@@ -112,3 +112,6 @@ python -m pytest tests -v --basetemp=.tmp_pytest -p no:cacheprovider
 python generate_design_pdf.py
 ```
 Outputs `docs/design.pdf`.
+
+## Project Demo link 
+https://drive.google.com/file/d/1pp9GFNe8GK_9N_HO7J7k1xJixXAq74cz/view?usp=sharing
