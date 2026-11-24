@@ -6,7 +6,7 @@ This project implements the restaurant-side settlement engine a food delivery pl
 
 The engine is **command-file driven** (no UI), designed for restaurant partner managers to verify weekly settlement statements and resolve payout disputes down to the paisa. It supports both command-file streaming (`commands.txt`) and granular CLI subcommands. Financial arithmetic is strictly implemented using Python's `Decimal` with `ROUND_HALF_UP` paise rounding.
 
- **##Project Demonstration**
+ **Project Demonstration**
 
 Watch the complete project demonstration to understand the working of our Food Delivery Commission and Restaurant Payout Engine (PS-039).
 
